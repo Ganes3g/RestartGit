@@ -1,3 +1,4 @@
 echo '<h1> welcome </h1>'
 echo '<h2> New line added <h2>'
 echo '<h3> From feature branch added lines <h3>'
+echo '<h4> Merge from master to feature from feature branch <h4>'
